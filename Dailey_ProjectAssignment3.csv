@@ -1,0 +1,33 @@
+Year,landcover,ClassName,CellCount
+2001,11,Open Water,464491393
+2001,12,Perennial Ice/Snow,816713
+2001,21,"Developed, Open Space",264764811
+2001,22,"Developed, Low Intensity",167904846
+2001,23,"Developed, Medium Intensity",65585542
+2001,24,"Developed, High Intensity",16826560
+2001,31,Barren Land,94484010
+2001,41,Deciduous Forest,827239837
+2001,42,Evergreen Forest,1041580294
+2001,43,Mixed Forest,272641903
+2001,52,Shrub/Scrub,2070219205
+2001,71,Grassland/Herbaceous,1067190071
+2001,81,Pasture/Hay,635648153
+2001,82,Cultivated Crops,1441631880
+2001,90,Woody Wetlands,419093425
+2001,95,Emergent Herbaceous Wetlands,128122688
+2021,11,Open Water,459151637
+2021,12,Perennial Ice/Snow,816713
+2021,21,"Developed, Open Space",272444877
+2021,22,"Developed, Low Intensity",206658715
+2021,23,"Developed, Medium Intensity",89874685
+2021,24,"Developed, High Intensity",22602794
+2021,31,Barren Land,99069530
+2021,41,Deciduous Forest,817478015
+2021,42,Evergreen Forest,1003287094
+2021,43,Mixed Forest,249959514
+2021,52,Shrub/Scrub,2045561791
+2021,71,Grassland/Herbaceous,1125349237
+2021,81,Pasture/Hay,607904750
+2021,82,Cultivated Crops,1433057926
+2021,90,Woody Wetlands,412856025
+2021,95,Emergent Herbaceous Wetlands,132168028
